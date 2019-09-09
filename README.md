@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/74e1cb6f-67ce-44ba-9145-756aa0c7f800/deploy-status)](https://app.netlify.com/sites/competent-fermat-26264f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/74e1cb6f-67ce-44ba-9145-756aa0c7f800/deploy-status)](https://app.netlify.com/sites/depictgame/deploys)
 
 ### Make it work on your machine
 
@@ -14,3 +14,8 @@ $ middleman server
 
 Make some changes, admire your live-reloaded work: `http://localhost:4567`
 
+### CMS Time
+
+`https://depictgame.com/admin/`
+
+Login with email/password or Github
