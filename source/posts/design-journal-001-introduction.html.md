@@ -6,10 +6,4 @@ description: >-
 image: /images/uploads/news_spotlight.png
 ---
 
-In each episode we present and solve a problem. Repeat until game is finished. Part design, part technical. Approachable by anyone who's interested.
-
-## Introduction
-
-In this pilot episode, we discuss the history of the concept and the challenge of reimaging the title.
-
-[Listen](#)
+Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
