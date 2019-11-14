@@ -38,6 +38,17 @@ collections:
       - {label: Description, name: description, widget: string}
       - {label: Image, name: image, widget: image}
       - {label: Body, name: body, widget: markdown}
+      - label: "content blocks"
+        name: "contentBlocks"
+        widget: "list"
+        fields:
+          - label: "content"
+            name: "content"
+            widget: "contentblocksexample"
+            blocks:
+              - string
+              - image
+              - markdown
 
   - name: pages
     label: Pages
